@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mazz78700aa.github.io/calc-atelier/sitemap.xml
